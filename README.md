@@ -1,3 +1,5 @@
+# USE THE NEWER AND BETTER VERSION OF THIS : https://github.com/femvoi/pg-disabler
+
 
 # patchedguard
 
